@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQCommon", "IQCommon.csproj", "{6C491916-50C9-4E52-A355-596FDE89816B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.100.1.73:8080/tfs/defaultcollection
+		SccProjectUniqueName0 = IQCommon.csproj
+		SccLocalPath0 = .
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C491916-50C9-4E52-A355-596FDE89816B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C491916-50C9-4E52-A355-596FDE89816B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C491916-50C9-4E52-A355-596FDE89816B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C491916-50C9-4E52-A355-596FDE89816B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
